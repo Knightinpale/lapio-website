@@ -1,0 +1,31 @@
+p {color: blue; }
+.kesa {color: red;}
+
+.container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+}
+
+.first-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  position: absolute
+}
+
+.second-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+   left: 250px;
+  position: absolute
+}
+
+.third-box-container {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+   left: 500px;
+  position: absolute
+}
